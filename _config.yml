@@ -27,8 +27,8 @@ show_downloads: true
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-hacker
-theme: minima
+theme: jekyll-theme-hacker
+#theme: minima
 gems:
 #  - jekyll-feed
   - github-pages
