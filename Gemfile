@@ -13,6 +13,7 @@ gem "jekyll", "3.4.3"
 
 #This will help previewing the file locally
 gem "github-pages", group: :jekyll_plugins
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
 gem "jekyll-theme-hacker", "~> 0.0.3"
