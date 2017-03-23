@@ -21,17 +21,25 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://smzb.mitos-kalandiel.me" # the base hostname & protocol for your site, e.g. http://example.com
+
+username: Sebastian Meier zu Biesen
+user_description: There is just a thin line between genius and insanity
+user_title: Freelance IT Technician&Programmer
+email: smzb@mitos-kalandiel.me
 twitter_username: smeierzubiesen
 github_username:  smeierzubiesen
+gplus_username:  smeierzubiesen
+
+google-analytics:
+  id: ""
+
 show_downloads: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
 #theme: jekyll-theme-modernist
 #theme: minima
 gems:
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+exclude: ['package.json', 'src', 'node_modules', 'Gemfile', 'Gemfile.lock']
