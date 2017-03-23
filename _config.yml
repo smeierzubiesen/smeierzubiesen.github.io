@@ -40,7 +40,7 @@ markdown: kramdown
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-modernist
 #theme: minima
-#theme: particle
+theme: particle
 gems:
   - jekyll-feed
 exclude: ['package.json', 'src', 'node_modules', 'Gemfile', 'Gemfile.lock']
