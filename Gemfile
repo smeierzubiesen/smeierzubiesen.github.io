@@ -13,7 +13,7 @@ ruby RUBY_VERSION
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.0"
-gem "jekyll-theme-hacker", "~> 0.0.3"
+gem "jekyll-theme-hacker", "~> 0.1.2"
 #gem "jekyll-theme-modernist", "~> 0.0.3"
 
 
